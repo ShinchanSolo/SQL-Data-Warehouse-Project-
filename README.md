@@ -74,7 +74,6 @@ data-warehouse-project/
 ├── tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
-├── .gitignore                          # Files and directories to be ignored by Git
 
 ```
 ---
